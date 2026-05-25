@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎨 AI Image Studio
 
-## Getting Started
+Zamonaviy va kuchli AI asosida ishlaydigan rasm yaratish va tahrirlash veb-ilovasi. Next.js va Pollinations API asosida yaratilgan.
 
-First, run the development server:
+![AI Image Studio](https://image.pollinations.ai/prompt/AI%20Image%20Studio%20banner%20modern%20design?width=1200&height=400)
 
+## ✨ Xususiyatlar
+
+### 🎯 Ikki rejim:
+
+| Rejim | Tavsif |
+|-------|--------|
+| **Rasm yaratish** | Matn tavsifi asosida yangi rasm yaratish |
+| **Rasmni o'zgartirish** | Yuklangan rasmni prompt bo'yicha o'zgartirish |
+
+### 🎨 Asosiy imkoniyatlar:
+
+- ✅ **Matndan rasm yaratish** - 100+ tayyor prompt misollari
+- ✅ **Rasmni tahrirlash** - Yuklangan rasmga o'zgartirishlar kiritish
+- ✅ **Tarix** - Yaratilgan rasmlar saqlanadi (localStorage)
+- ✅ **Yuklab olish** - PNG formatda saqlash
+- ✅ **Live preview** - Har o'zgarishda avtomatik yangilanish
+- ✅ **Responsive dizayn** - Mobil va desktopda mukammal
+
+## 🛠 Texnologiyalar
+
+| Texnologiya | Vazifasi |
+|-------------|----------|
+| **Next.js 14** | Framework (App Router) |
+| **TypeScript** | Xavfsiz kod |
+| **Tailwind CSS** | Zamonaviy dizayn |
+| **Pollinations API** | Rasm yaratish (bepul) |
+| **Lucide React** | Ikonkalar |
+| **React Hot Toast** | Notificationlar |
+
+## 🚀 Qanday ishlaydi?
+
+### Rasm yaratish rejimi:
+1. Prompt yozing (masalan: "A beautiful sunset over mountains")
+2. "Rasm yaratish" tugmasini bosing
+3. AI 5-10 soniyada rasm yaratadi
+4. Rasmni yuklab oling yoki tarixga saqlang
+
+### Rasmni o'zgartirish rejimi:
+1. Rasm yuklang
+2. Qanday o'zgartirish kerakligini yozing
+3. "Rasmni o'zgartirish" tugmasini bosing
+4. Yangilangan rasmni ko'ring
+
+## 📦 O'rnatish va ishga tushirish
+
+### 1. Repository ni klonlash
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/username/ai-image-studio.git
+cd ai-image-studio
