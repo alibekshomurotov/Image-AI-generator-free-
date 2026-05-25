@@ -41,15 +41,4 @@ Zamonaviy va kuchli AI asosida ishlaydigan rasm yaratish va tahrirlash veb-ilova
 3. AI 5-10 soniyada rasm yaratadi
 4. Rasmni yuklab oling yoki tarixga saqlang
 
-### Rasmni o'zgartirish rejimi:
-1. Rasm yuklang
-2. Qanday o'zgartirish kerakligini yozing
-3. "Rasmni o'zgartirish" tugmasini bosing
-4. Yangilangan rasmni ko'ring
 
-## 📦 O'rnatish va ishga tushirish
-
-### 1. Repository ni klonlash
-```bash
-git clone https://github.com/username/ai-image-studio.git
-cd ai-image-studio
