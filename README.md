@@ -40,4 +40,5 @@ Zamonaviy va kuchli AI asosida ishlaydigan rasm yaratish va tahrirlash veb-ilova
 3. AI 5-10 soniyada rasm yaratadi
 4. Rasmni yuklab oling yoki tarixga saqlang
 
-
+Sinab ko'rish uchun LInk:
+https://image-ai-generator-alpha.vercel.app/
