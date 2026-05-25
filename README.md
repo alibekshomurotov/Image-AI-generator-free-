@@ -16,7 +16,6 @@ Zamonaviy va kuchli AI asosida ishlaydigan rasm yaratish va tahrirlash veb-ilova
 ### 🎨 Asosiy imkoniyatlar:
 
 - ✅ **Matndan rasm yaratish** - 100+ tayyor prompt misollari
-- ✅ **Rasmni tahrirlash** - Yuklangan rasmga o'zgartirishlar kiritish
 - ✅ **Tarix** - Yaratilgan rasmlar saqlanadi (localStorage)
 - ✅ **Yuklab olish** - PNG formatda saqlash
 - ✅ **Live preview** - Har o'zgarishda avtomatik yangilanish
