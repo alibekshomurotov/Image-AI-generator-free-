@@ -6,12 +6,12 @@ Zamonaviy va kuchli AI asosida ishlaydigan rasm yaratish va tahrirlash veb-ilova
 
 ## ✨ Xususiyatlar
 
-### 🎯 Ikki rejim:
+
 
 | Rejim | Tavsif |
 |-------|--------|
 | **Rasm yaratish** | Matn tavsifi asosida yangi rasm yaratish |
-| **Rasmni o'zgartirish** | Yuklangan rasmni prompt bo'yicha o'zgartirish |
+
 
 ### 🎨 Asosiy imkoniyatlar:
 
